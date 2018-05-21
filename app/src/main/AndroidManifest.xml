@@ -110,7 +110,7 @@
         android:value=".activity.FeatureOverviewActivity"/>
     </activity>
     <activity
-      android:name=".activity.MarkerClusterActivity"
+      android:name=".activity.clustering.MarkerClusterActivity"
       android:description="@string/description_cluster"
       android:label="@string/title_cluster">
       <meta-data
